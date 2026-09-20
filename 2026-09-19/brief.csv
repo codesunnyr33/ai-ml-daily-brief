@@ -1,0 +1,22 @@
+section,bullet
+Latest AI/ML development and evolution,"OpenAI GPT-6 Astra (~Sep 17, 2026): first OpenAI model rated Critical for cybersecurity under Preparedness Framework; Microsoft Foundry GA same day; Foundry pricing ~$10/$50 per M tokens short context."
+Latest AI/ML development and evolution,"Google Gemini 3.8 Live and 3.8 Live Extended Thinking (Sep 15–16): live voice models in Gemini API, AI Studio, Search Live; Extended Thinking in Gemini Live/Workspace; claimed #1 Speech-to-Speech Quality Index (82.6)."
+Latest AI/ML development and evolution,Gemini 3.8 Flash GA Sep 2; DeepMind Dream-RSI paper on arXiv Sep 14; Gemini 4 still in pre-training (no ship date).
+Latest AI/ML development and evolution,"Shanghai AI Lab Atria Dawn Preview (weights Sep 11): MIT-licensed 744B MoE (~40B active), agentic research/engineering, 256K context, HF + OpenAI-compatible APIs."
+Latest AI/ML development and evolution,"Ant Group Realtime-Venus (arXiv ~Sep 9–12): two 9B full-duplex models (Omni + Audio), Apache-2.0 on Hugging Face; quiet repo release."
+How the world is responding,Pace the Frontier selloff (Sep 12–15): Amodei slowdown essay; Altman/Musk agreed; Philadelphia Semiconductor Index ~−5–6% on Sep 14; Nvidia ~−3.3%.
+How the world is responding,Trump dismissed AI-safety slowdown as a sick conspiracy / China race; Huang opposed slowing; Vance skeptical of labs seeking regulation.
+How the world is responding,"Capex intact: Anthropic linked to $13.7B six-year compute deal same week; hyperscaler 2026 guidance raised/reaffirmed (Amazon ~$220B, Alphabet $195–205B, Meta $130–145B)."
+How the world is responding,"Rotation into software names priced as AI-disruption targets (Adobe, Autodesk, Intuit, etc.) as markets priced slower capability pace."
+New products launching that use AI/ML,"OpenAI Agents API public beta (Sep 10): managed Codex-style cloud agent harness, sandboxes, subagents; pay tokens/tools only."
+New products launching that use AI/ML,OpenAI GPT-Live-1 in API (Sep 10): full-duplex voice front-end at $0.05/min; Presence for enterprise voice agents.
+New products launching that use AI/ML,"GPT-6 Astra rolling to ChatGPT Plus/Pro/Business/Enterprise, API, Azure, Bedrock; Enterprise off by default at launch."
+New products launching that use AI/ML,Google Search Live + Workspace Live powered by Gemini 3.8 Live / Extended Thinking; SynthID audio watermarking.
+New products launching that use AI/ML,"Huawei Atlas 960E SuperPoD (Sep 17, HUAWEI CONNECT): NPO SuperPoD up to 4,096 NPUs for ~10T-parameter training/inference."
+Markets where AI/ML is still underused (sell opportunities),"Construction & built-world SMEs: scheduling, safety, document/BIM copilots for low-digitization field workflows."
+Markets where AI/ML is still underused (sell opportunities),"Mid-market manufacturing & maintenance: quality inspection, downtime prediction, maintenance ops agents with clear labor ROI."
+Markets where AI/ML is still underused (sell opportunities),"Agriculture / field ops: weather, pest, soil, market intel via WhatsApp/voice/SMS for smartphone-only distribution."
+Markets where AI/ML is still underused (sell opportunities),"Insurance claims & underwriting: FNOL triage, coverage check, underwriting packet agents for semi-structured paperwork."
+Markets where AI/ML is still underused (sell opportunities),Healthcare admin: prior-auth evidence assembly and SMB clinical documentation still under-automated.
+Markets where AI/ML is still underused (sell opportunities),Legal / audit / PI ops: mid-market contract triage and matter workflows without enterprise AI budgets.
+Markets where AI/ML is still underused (sell opportunities),"Property/facilities & local services: housing ops, transaction coordination, supplier risk for fragmented buyers."
