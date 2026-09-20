@@ -1,9 +1,9 @@
 # AI/ML Daily Brief
 
-Hosted dashboard for the daily AI/ML news brief (5:00 AM PT).
+Live dashboard: https://codesunnyr33.github.io/ai-ml-daily-brief/
 
-- **Today** — latest brief
-- **Archive** — prior days with search and day/week/month grouping
-- **Refresh** — reloads `briefs-data.json` from this site (no zip downloads)
+Schedule: every day at 5:00 AM PT (America/Los_Angeles).
 
-Open the GitHub Pages URL after it is enabled and bookmark it.
+Open `index.html` / `dashboard.html`. Click **Refresh** to fetch `briefs-data.json` (same-origin on GitHub Pages). Archive tab groups by day/week/month with search.
+
+Dated exports live under `YYYY-MM-DD/` (`brief.md`, `brief.json`, `brief.csv`, `brief.docx`).

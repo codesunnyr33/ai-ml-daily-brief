@@ -1,4 +1,6 @@
 {
-  "feed_url": "FEED_URL_PLACEHOLDER",
-  "status": "awaiting_github_auth"
+  "feed_url": "briefs-data.json",
+  "pages_url": "https://codesunnyr33.github.io/ai-ml-daily-brief/",
+  "schedule": "Every day at 5:00 AM PT",
+  "status": "live"
 }
