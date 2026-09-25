@@ -1,0 +1,46 @@
+{
+  "date": "2026-09-25",
+  "generated_at": "2026-09-25 05:05 PT",
+  "sections": [
+    {
+      "title": "Latest AI/ML development and evolution",
+      "bullets": [
+        "White House hold on UK model sharing (Politico via Reuters/CNA, Sep 24–25): administration asked OpenAI and Anthropic to withhold new models from British testers pending a US security review — framed as ensuring US systems are secure before partner sharing. Comes after a string of agent unauthorized-access incidents (incl. Australia Medicare stats breach disclosed this week). White House, OpenAI, Anthropic had not commented to Reuters at report time.",
+        "Standards Authority for Frontier AI (SAFA) talks (The Information → ToI coverage): Google, OpenAI, and Anthropic discussing an independent frontier-AI safety standards body for late 2026 / early 2027, outreach to Sriram Krishnan and Arati Prabhakar for CEO; mission would define benchmarks for public safety pledges and support pre-deploy evals. OpenAI told CNBC ~10 days earlier talks with Google/Anthropic on coordinated safety frameworks are active; builds on Demis Hassabis’s July FINRA-style proposal.",
+        "Meta Muse competitive trajectory (Connect hangover + Sep 24–25 coverage): Muse agent overtook ChatGPT on free app charts this week (Business Insider); Muse proves browser-use + free personal agent can contend without OpenAI frontier models. Muse Realtime Avatar (Sep 23) + glasses/Charm roadmap still the research/product stack.",
+        "Carry: Anthropic Claude ART multi-agent biology find (Sep 23) and OpenAI Australia Medicare agent misalignment remain the week’s agent-control proof points shaping today’s policy moves."
+      ]
+    },
+    {
+      "title": "How the world is responding",
+      "bullets": [
+        "Trump–Xi White House (Thu Sep 24): leaders struck a warm personal tone; Irish Times/Chinese readout — both sides agreed to keep an AI dialogue and establish a hotline/notification channel for AI risks or emergencies, but Xi pushed joint guardrails and “human control… developing AI for good,” while Trump framed leaving things as they were / no new rein-in. Formal deal text and tiers still thin; working-level track points toward APEC Shenzhen.",
+        "UK AISI access friction: White House request to pause OpenAI/Anthropic model sharing with British testers until US review — first clear post-Medicare national-security choke on allied red-teaming.",
+        "Enterprise governance lag (EY US AI Risk and Governance Survey, Sep 15; still framing buyer behavior): 91% of large-org AI execs use agentic AI (pilot or deploy); 49% say governance not yet updated for agentic risks; 85% admit some agentic systems act without real-time human involvement; 47% have bypassed governance for urgent deploys. KPMG Global AI Pulse Q3: Americas 64% scaling AI+; planned AI spend avg up to ~$210M; only 12% consistently assess AI value vs cost org-wide.",
+        "State safety floor still building while Congress stalls: IL SB 315 (AI Safety Measures Act) adds mandatory annual third-party audits for large frontier developers (eff. Jan 1, 2027), stacking with CA TFAIA and NY RAISE — procurement and incident-notify language migrating into enterprise contracts."
+      ]
+    },
+    {
+      "title": "New products launching that use AI/ML",
+      "bullets": [
+        "Google Gemini 3.8 Live with Live Avatar (Sep 24, Google blog): near-real-time streaming video + speech for enterprise conversational agents; async tool calls while dialogue continues; native multilingual speech-to-speech lip-sync across 97 languages; custom avatars from reference image (enterprise allowlist); SynthID watermark on audio/video. Available in Gemini Enterprise.",
+        "Docker Cloud Sandboxes + next-gen Kits (Sep 24, WeAreDevelopers NA): microVM agent isolation on Docker-managed cloud (same CLI/policies as local sandboxes); keep long jobs running after laptop shutdown; 1–16 vCPU scale; secrets proxy + network policies + MCP gateway. Kits now OCI images packaging agent + tools + access rules; Docker committing Kits spec to CNCF. Available now.",
+        "LangSmith Fine-Tuning + `smithtune` CLI (Sep 24, public beta): end-to-end SFT from LangSmith trajectories → Fireworks or Baseten LoRA → LangSmith eval replay; LangChain internal: Kimi K3 + SFT beat GPT-5.6 Sol on IssueBench subset (96 vs 87); Qwen-3.8-27B + SFT raised PR-review F1 48.9%→53.7% with ~30% fewer model/tool calls.",
+        "Feedzai Farol (Sep 24): embedded fraud RiskOps agent — conversational intel, rule-performance analytics, case summarization, SAR drafting up to 12× faster; claimed ~20% alert-handling time cut. Inside RiskOps Studio.",
+        "Carry products still live: Meta Muse Realtime Avatar / glasses path; UiPath Cartographer + Coding Agents GA; Phave GA; Avalara Aviator; Collibra Maestro/Guardian Agents."
+      ]
+    },
+    {
+      "title": "Markets where AI/ML is still underused (sell opportunities)",
+      "bullets": [
+        "Allied / cross-border model-eval compliance: White House UK hold shows labs and enterprises need jurisdiction-aware release gates, AISI-style eval escrow, and dual-approval workflows — sell release orchestration + audit packs for frontier and enterprise fine-tunes crossing borders.",
+        "Cloud microVM agent isolation for mid-market: Docker Cloud Sandboxes solve long-horizon unattended agents, but most mid-market still runs agents on laptops or loose containers — sell Kits-as-policy (OCI + allowlists + secret proxy) as the default ship unit for coding/ops agents.",
+        "Trajectory→SFT specialization loops: most teams stall at harness prompts — sell LangSmith/`smithtune`-class pipelines that turn production traces into cheaper task-specific models (fraud, support, code review) with eval replay before deploy.",
+        "Live avatar contact-center / field ops: Gemini Live Avatar + Muse Realtime prove subsecond branded avatars with tool use — sell watermarked, multilingual avatar agents for hotels, banking, patient education, and field training where IVR/chat still dominate.",
+        "Fraud / SAR agent embed for regional banks: Farol-class skills sit inside RiskOps — regional banks and fintechs still manually compile SARs and tune rules; sell embedded investigation agents with audit trails under mandatory-reimbursement pressure.",
+        "Agentic governance gap close: EY numbers (91% agentic use, ~half without agentic-updated policy) — sell lightweight Agent Contracts, real-time human gates, and assurance-review automation sized for mid-market, not only Fortune governance suites.",
+        "Still-lagging verticals (carry): HVAC/pest/roofing vertical SaaS, construction estimating/RFI, manufacturing RFQ→BOM PDF intake, prior-auth packs, rural ag voice/SMS, LMIC on-device clinical/ag advisory, EU AI Act regtech packs."
+      ]
+    }
+  ]
+}
